@@ -121,6 +121,7 @@ public class Chart2Activity extends AppCompatActivity {
         colors.add(ColorTemplate.getHoloBlue());
 
         dataSet.setColors(colors);
+        //   dd
         //dataSet.setSelectionShift(0f);
 
 
